@@ -1,7 +1,0 @@
-com\stockmarket\domain\Asset.class
-com\stockmarket\logic\Portfolio.class
-com\stockmarket\domain\Share.class
-com\stockmarket\persistence\PortfolioPersistence$1.class
-com\stockmarket\logic\Portfolio$AssetHolding.class
-com\stockmarket\domain\Currency.class
-com\stockmarket\domain\Commodity.class
