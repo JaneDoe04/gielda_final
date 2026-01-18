@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stockmarket.persistence.PortfolioPersistenceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.19 s - in com.stockmarket.persistence.PortfolioPersistenceTest
